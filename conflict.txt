@@ -1,1 +1,2 @@
-conflict.txt "local changes"
+conflict.txt "local changes" after conflicts
+
