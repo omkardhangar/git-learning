@@ -1,1 +1,1 @@
-commonRebase.txt : "local changes"
+commonRebase.txt : local changes
